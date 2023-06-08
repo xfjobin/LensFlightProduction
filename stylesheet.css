@@ -19,18 +19,11 @@ body {
     overflow: scroll;
 }
 
-.topbox {
+.topbox{
     margin:auto;
     padding: 30px;
     background-color: rgba(100, 100, 100, 0.5);
     top: 0;
-    
-  }
-
-#top_nav {
-    position:fixed;
-    top:0px;
-    width: 100%;
 }
 
 .nav-link {
